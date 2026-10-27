@@ -26,12 +26,12 @@ Bachelor of Mathematics & Computer Science.
 
 | Project | What it does | Tools |
 |---|---|---|
-| ⭐ **[Payroll Invoice Importer](https://github.com/DiepBaoTuan/Payroll-Invoice-Importer-SQL-ETL)** | ETL pipeline that loads 150K+ payroll invoice rows from Excel into PostgreSQL, with validation, duplicate protection and a SQL reporting layer | Python · PostgreSQL · SQL |
-| **[E-commerce Analysis](https://github.com/DiepBaoTuan/Explore-Ecommerce-Dataset-SQL-)** | 8 SQL queries on Google Analytics data: traffic, bounce rate, revenue by source, conversion funnel | BigQuery SQL |
-| **[AdventureWorks Insights](https://github.com/DiepBaoTuan/INSIGHTS-AND-RECOMMENDATION-PROJECT-ADVENTUREWORKS)** | Sales dashboard with insights and business recommendations | Power BI |
-| **[Power BI Dashboard](https://github.com/DiepBaoTuan/PBi-Project)** | Interactive reporting dashboard | Power BI |
-| **[Tiki Product Crawler](https://github.com/DiepBaoTuan/DEK29_DiepBaoTuan_Project2)** | Async crawler that collects 200K products with retry, rate-limit handling and resume support | Python · asyncio |
-| **[Movie Data with Bash](https://github.com/DiepBaoTuan/DiepBaoTuan_K19_LV1_project_01)** | Analysis of the TMDB movie dataset using only command-line tools | Bash · awk |
+| ⭐ **[Payroll Invoice ETL](https://github.com/DiepBaoTuan/payroll-invoice-etl-postgresql)** | ETL pipeline that loads 150K+ payroll invoice rows from Excel into PostgreSQL, with validation, duplicate protection and a SQL reporting layer | Python · PostgreSQL · SQL |
+| **[E-commerce Analytics](https://github.com/DiepBaoTuan/ecommerce-analytics-bigquery-sql)** | 8 SQL queries on Google Analytics data: traffic, bounce rate, revenue by source, conversion funnel | BigQuery SQL |
+| **[Telecom Customer Churn](https://github.com/DiepBaoTuan/telecom-customer-churn-powerbi)** | Dashboard showing who churns and why: segment comparison, churn reasons, customer drill-down | Power BI · DAX |
+| **[AdventureWorks Sales & RFM](https://github.com/DiepBaoTuan/adventureworks-sales-rfm-powerbi)** | Sales and customer analysis with RFM segmentation and business recommendations | Power BI · DAX |
+| **[Tiki Product Crawler](https://github.com/DiepBaoTuan/tiki-product-crawler-python)** | Async crawler that collects 200K products with retry, rate-limit handling and resume support | Python · asyncio |
+| **[TMDB Movie Analysis](https://github.com/DiepBaoTuan/tmdb-movie-analysis-bash)** | Analysis of the TMDB movie dataset using only command-line tools | Bash · awk |
 
 ---
 
