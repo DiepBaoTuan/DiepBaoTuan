@@ -37,7 +37,6 @@ Bachelor of Mathematics & Computer Science.
 
 ### 📫 Contact
 
-<!-- Add your LinkedIn / email here, for example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
--->
-Open to Data Analyst opportunities. Feel free to reach out via GitHub.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-diep--tuan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diep-tuan/)
+
+Open to Data Analyst opportunities. Feel free to connect on LinkedIn.
